@@ -161,6 +161,7 @@ main .book__info {
 .main .book__info .owner__image img {
     width: 2.375rem;
     height: 2.375rem;
+    border-radius: 100%;
 }
 
 .main .book__info .owner__name {
